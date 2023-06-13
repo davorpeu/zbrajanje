@@ -3,4 +3,4 @@ function mnozenje(a, b) {
 }
 
 console.log(mnozenje);
-module.exports = multiplying;
+module.exports = mnozenje;

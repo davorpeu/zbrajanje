@@ -2,4 +2,4 @@ function mnozenje(a, b) {
   return a * b;
 }
 
-module.exports = divide;
+module.exports = multiplication;

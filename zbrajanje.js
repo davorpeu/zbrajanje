@@ -1,1 +1,6 @@
-console.log (2+2)
+function addition (a, b) {
+  return a + b;
+}
+
+module.exports = addition;
+
